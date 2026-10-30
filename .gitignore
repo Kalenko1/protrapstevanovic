@@ -1,0 +1,7 @@
+# Local preview config, not part of the site
+.claude/
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
